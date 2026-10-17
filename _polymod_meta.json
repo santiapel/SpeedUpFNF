@@ -1,0 +1,9 @@
+
+{
+  "title": "Speed Up Mod",
+  "description": "Configurable song speed and activation key.",
+  "author": "Santi Apel",
+  "api_version": "0.8.0",
+  "mod_version": "1.1.0",
+  "license": "MIT"
+}
